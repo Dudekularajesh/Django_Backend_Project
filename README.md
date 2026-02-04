@@ -1,4 +1,4 @@
-Aforro Backend Developer Assignment (Round-2)
+Aforro Backend Developer
 
 This repository contains a complete Django backend project built as part of the Aforro Backend Developer assessment.
 The project focuses on scalability, performance, clean architecture, caching, async processing, and containerization.
